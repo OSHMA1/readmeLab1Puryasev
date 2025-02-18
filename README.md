@@ -1,3 +1,4 @@
+Пурясьев выполнил
 # readmeLab1Puryasev
 #include <iostream>
 #include <cmath>
